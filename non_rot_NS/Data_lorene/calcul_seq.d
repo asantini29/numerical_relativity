@@ -5,7 +5,7 @@
 #################### PHYSICAL PARAMETERS ######################################
 1    Relativity parameter: 1 = relativistic computation , 0 = Newtonian
 0.3   entc_min : initial central enthalpy [c^2]
-0.5   entc_max : initial central enthalpy [c^2]
+0.6   entc_max : initial central enthalpy [c^2]
 0. 	freq_min_si : initial central rotation frequency [Hz]
 0. 	freq_max_si : final central rotation frequency [Hz]
 10	Number of configurations in the sequence
